@@ -10,7 +10,7 @@ A full-stack demo that tracks **Apple**, **Orange**, and **Banana** stocks over 
 
 ---
 
-## 📸 Demo
+## 📸 Demo Screenshot
 
 ![Dashboard screenshot](https://github.com/user-attachments/assets/59437fe3-88b2-4db3-a54c-9c8024e134b7 "KPI cards, line chart, and AI summary")
 
