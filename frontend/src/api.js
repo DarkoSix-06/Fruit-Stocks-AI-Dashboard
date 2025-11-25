@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE || 'http://localhost:8081/api/v1',
+  baseURL: import.meta.env.VITE_API_BASE || 'https://fruit-stocks-ai-dashboard-production.up.railway.app/api/v1',
 });
 
 export async function getSeries(startDate, endDate) {
